@@ -1,0 +1,68 @@
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_MSC_VER = 1929
+QMAKE_CXX.QMAKE_MSC_FULL_VER = 192930147
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_MSC_VER \
+    QMAKE_MSC_FULL_VER
+QMAKE_CXX.INCDIRS = \
+    "D:/VS/Visual Studio IDE/VC/Tools/MSVC/14.29.30133/ATLMFC/include" \
+    "D:/VS/Visual Studio IDE/VC/Tools/MSVC/14.29.30133/include" \
+    "D:/Windows Kits/10/include/10.0.22000.0/ucrt" \
+    "D:/Windows Kits/10/include/10.0.22000.0/shared" \
+    "D:/Windows Kits/10/include/10.0.22000.0/um" \
+    "D:/Windows Kits/10/include/10.0.22000.0/winrt" \
+    "D:/Windows Kits/10/include/10.0.22000.0/cppwinrt"
+QMAKE_CXX.LIBDIRS = \
+    "D:/VS/Visual Studio IDE/VC/Tools/MSVC/14.29.30133/lib/ARM64" \
+    "D:/Windows Kits/10/lib/10.0.22000.0/ucrt/arm64" \
+    "D:/Windows Kits/10/lib/10.0.22000.0/um/arm64"
+QMAKE_CXX.PATH = \
+    "D:/VS/Visual Studio IDE/Common7/IDE/Extensions/Microsoft/IntelliCode/CLI" \
+    "D:/VS/Visual Studio IDE/VC/Tools/MSVC/14.29.30133/bin/HostX64/ARM64" \
+    "D:/VS/Visual Studio IDE/VC/Tools/MSVC/14.29.30133/bin/HostX64/x64" \
+    "D:/VS/Visual Studio IDE/Common7/IDE/VC/VCPackages" \
+    "D:/VS/Visual Studio IDE/Common7/IDE/CommonExtensions/Microsoft/TestWindow" \
+    "D:/VS/Visual Studio IDE/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer" \
+    "D:/VS/Visual Studio IDE/MSBuild/Current/bin/Roslyn" \
+    "D:/VS/Visual Studio IDE/Team Tools/Performance Tools" \
+    D:/VS/Shared/Common/VSPerfCollectionTools/vs2019 \
+    "C:/Program Files (x86)/HTML Help Workshop" \
+    "D:/VS/Visual Studio IDE/Common7/Tools/devinit" \
+    "D:/Windows Kits/10/bin/10.0.22000.0/x64" \
+    "D:/Windows Kits/10/bin/x64" \
+    "D:/VS/Visual Studio IDE/MSBuild/Current/Bin" \
+    C:/WINDOWS/Microsoft.NET/Framework64/v4.0.30319 \
+    "D:/VS/Visual Studio IDE/Common7/IDE" \
+    "D:/VS/Visual Studio IDE/Common7/Tools" \
+    "C:/Program Files/Common Files/Oracle/Java/javapath" \
+    "C:/Program Files (x86)/Intel/Intel(R) Management Engine Components/iCLS" \
+    "C:/Program Files/Intel/Intel(R) Management Engine Components/iCLS" \
+    C:/WINDOWS/system32 \
+    C:/WINDOWS \
+    C:/WINDOWS/System32/Wbem \
+    C:/WINDOWS/System32/WindowsPowerShell/v1.0 \
+    C:/WINDOWS/System32/OpenSSH \
+    "C:/Program Files (x86)/Intel/Intel(R) Management Engine Components/DAL" \
+    "C:/Program Files/Intel/Intel(R) Management Engine Components/DAL" \
+    E:/Bootkit/mingw64/bin \
+    C:/ASL \
+    E:/git/Git/cmd \
+    E:/git/Git/bin \
+    C:/NASM \
+    E:/python \
+    E:/Qemu \
+    D:/anaconda \
+    E:/IDApro/py/Scripts \
+    E:/IDApro/py \
+    D:/python/Scripts \
+    D:/python \
+    C:/Users/admin/AppData/Local/Microsoft/WindowsApps \
+    "D:/pycharm/PyCharm Community Edition 2022.2.2/bin" \
+    "D:/pycharm/PyCharm 2022.1.4/bin" \
+    E:/Nmap \
+    C:/Users/admin/AppData/Local/Programs/Python/Python27/Scripts \
+    C:/Users/admin/AppData/Local/Programs/Python/Python27 \
+    "E:/vscode/Microsoft VS Code/bin" \
+    "D:/VS/Visual Studio IDE/VC/Tools/Llvm/x64/bin" \
+    "D:/VS/Visual Studio IDE/Common7/IDE/VC/Linux/bin/ConnectionManagerExe"
